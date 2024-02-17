@@ -3,7 +3,7 @@ package warrior
 import (
 	"fmt"
 
-	"github.com/MarkTBSS/go-inheritance/novice"
+	"github.com/MarkTBSS/go-inheritance-polymorphism/novice"
 )
 
 // Warrior struct embeds the Novice struct and adds a color field

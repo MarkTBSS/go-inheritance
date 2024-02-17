@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/MarkTBSS/go-inheritance/novice"
-	"github.com/MarkTBSS/go-inheritance/warrior"
+	"github.com/MarkTBSS/go-inheritance-polymorphism/novice"
+	"github.com/MarkTBSS/go-inheritance-polymorphism/warrior"
 )
 
 func main() {
